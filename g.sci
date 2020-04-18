@@ -6,6 +6,7 @@ exec('gauss.sci')
 [N, b] = plates(6, 1.25, 1.2)
 
 x=gauss(PMatrix()',b)
+
 disp('Ejercicio G:')
 disp('X =')
 disp(x)
