@@ -10,5 +10,7 @@ lu = Doolittle(P)
 
 x = inv(lu.U)*inv(lu.L)*b
 
+disp('Ejercicio i:')
+
 disp('x:')
 disp(x)

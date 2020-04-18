@@ -4,6 +4,8 @@ filas=5
 
 [A b] = plates(filas,1,1)
 
+disp('Ejercicio b:')
+
 printf('A:\n')
 disp(A)
 printf('\n')
