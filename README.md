@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-- Frings Barrueta @fbarrueta22
-- Alberto Oporto @otreblan
-- Luis Carbajal @luis-carbajal-c
-- Renato Rodríguez @renatoseb
+- Frings Barrueta [@fbarrueta22](https://github.com/fbarrueta22)
+- Alberto Oporto [@otreblan](https://github.com/otreblan)
+- Luis Carbajal [@luis-carbajal-c](https://github.com/luis-carbajal-c)
+- Renato Rodríguez [@renatoseb](https://github.com/renatoseb)
 - Gabriel Jimenez
 
-Los porcentajes de participación están en la pestaña de
-[contribudores](https://github.com/UTEC-mateIII/TAP-1/graphs/contributors).
+La partcipación de cada miembro está en la pestaña de
+[contribuidores](https://github.com/UTEC-mateIII/TAP-1/graphs/contributors).
