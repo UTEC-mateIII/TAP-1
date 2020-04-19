@@ -1,5 +1,5 @@
-exec('plates.sci')
-exec('Crout.sci')
+//exec('plates.sci')
+//exec('Crout.sci')
 
 [N, B] = plates(6, 1.25, 1.2)
 

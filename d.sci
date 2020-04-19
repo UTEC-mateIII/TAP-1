@@ -1,5 +1,5 @@
-exec('platesD.sci')
-exec('Doolittle.sci')
+//exec('platesD.sci')
+//exec('Doolittle.sci')
 
 
 filas=5
