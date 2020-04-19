@@ -39,4 +39,3 @@ if(rA == rAb)
 else
 	printf('Sin solución\n')
 end
-

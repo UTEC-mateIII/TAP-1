@@ -29,4 +29,3 @@ function sol = gauss(A, b)
     sol = x
    
 endfunction
-
