@@ -1,5 +1,5 @@
-//exec('platesD.sci')
-//exec('Doolittle.sci')
+exec('platesD.sci')
+exec('Doolittle.sci')
 
 
 filas=5
@@ -39,4 +39,3 @@ if(rA == rAb)
 else
 	printf('Sin solución\n')
 end
-
