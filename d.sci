@@ -6,7 +6,7 @@ filas=5
 
 [A b] = platesD(filas,1,1)
 
-disp('Ejercicio c:')
+disp('Ejercicio d:')
 
 printf('A:\n')
 disp(A)
